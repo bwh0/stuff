@@ -1,0 +1,7 @@
+If you want the suggestions then log on to phpmyadmin and on the left sidebar
+click 'gossipking' then click 'feedback' and they will all appear on screen
+
+type Yes on the next line so i know the document has been read and I can delete it.
+read?:
+
+No rekt nub
