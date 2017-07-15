@@ -1,3 +1,6 @@
+# Farooqui Conjecture.py
+# Imaad Farooqui
+
 # Farooqui Conjecture LCM
 
 # Modules
